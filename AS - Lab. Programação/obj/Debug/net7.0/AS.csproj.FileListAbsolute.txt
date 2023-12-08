@@ -1,0 +1,15 @@
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/bin/Debug/net7.0/AS
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/bin/Debug/net7.0/AS.deps.json
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/bin/Debug/net7.0/AS.runtimeconfig.json
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/bin/Debug/net7.0/AS.dll
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/bin/Debug/net7.0/AS.pdb
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.csproj.AssemblyReference.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.AssemblyInfoInputs.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.AssemblyInfo.cs
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.csproj.CoreCompileInputs.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.dll
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/refint/AS.dll
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.pdb
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/AS.genruntimeconfig.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AS/obj/Debug/net7.0/ref/AS.dll
